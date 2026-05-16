@@ -1,2 +1,2 @@
 # horizon-internship-tasks
-Tasks completed for Horizon Intern Virtual Internship
+A collection of Machine Learning projects focused on prediction models and data-driven applications using Python.
